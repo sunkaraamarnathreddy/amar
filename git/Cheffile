@@ -1,0 +1,2 @@
+site 'http://shelf.mo.sap.corp:8080/api/v1'
+cookbook 'windows', '1.38.3'

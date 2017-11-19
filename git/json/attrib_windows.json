@@ -1,0 +1,11 @@
+{
+  "litc-chef-agent": {
+    "splunk_url": "https://10.76.63.32:8088/services/collector/event",
+    "random_delay": 1200,
+    "reported_attributes": [
+      "tags",
+      "localhost:443",
+      "glds_sid"
+    ]
+  }
+}
