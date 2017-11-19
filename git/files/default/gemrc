@@ -1,4 +1,0 @@
-gem: --no-ri --no-rdoc --no-http-proxy
-:sources:
-  - http://moo-repo.wdf.sap.corp:8080/rubygemsorg/
-  - http://moo-repo.wdf.sap.corp:8080/geminabox/

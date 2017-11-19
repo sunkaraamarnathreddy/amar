@@ -1,1 +1,0 @@
-C:\opscode\chef\embedded\bin\ruby c:\chef\agent.rb

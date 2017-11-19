@@ -1,1 +1,0 @@
-F, [2017-11-16T18:06:07.035535 #1916] FATAL -- default-ubuntu-1604: The `librarian-chef' gem is missing and must be installed or cannot be properly activated. Run `gem install librarian-chef` or add the following to your Gemfile if you are using Bundler: `gem 'librarian-chef'`.

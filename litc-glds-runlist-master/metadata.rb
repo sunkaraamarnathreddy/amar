@@ -9,7 +9,6 @@ source_url 'https://github.wdf.sap.corp/LIT-DEVOPS/litc-glds-runlist' if respond
 issues_url 'https://github.wdf.sap.corp/LIT-DEVOPS/litc-glds-runlist/issues' if respond_to?(:issues_url)
 
 supports 'suse'
-supports 'redhat'
 supports 'windows'
 
 depends 'glds-inventory'
